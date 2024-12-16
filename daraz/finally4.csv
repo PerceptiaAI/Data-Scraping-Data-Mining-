@@ -1,0 +1,18 @@
+he
+"{
+  ""args"": {}, 
+  ""headers"": {
+    ""Accept"": ""*/*"", 
+    ""Accept-Encoding"": ""gzip, deflate, br"", 
+    ""Accept-Language"": ""en-US;q=0.5,en;q=0.3"", 
+    ""Cache-Control"": ""max-age=0"", 
+    ""Host"": ""httpbin.org"", 
+    ""Referer"": ""https://google.com"", 
+    ""Upgrade-Insecure-Requests"": ""1"", 
+    ""User-Agent"": ""Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"", 
+    ""X-Amzn-Trace-Id"": ""Root=1-64f8977c-714a91c13e3aebc90fc81573""
+  }, 
+  ""origin"": ""39.42.135.7"", 
+  ""url"": ""http://httpbin.org/get""
+}
+"
